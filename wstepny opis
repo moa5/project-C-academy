@@ -1,3 +1,1 @@
-Program symulujący bazę danych pacjentów gabinetu stomatologicznego z możliwością dodawania nowych pacjentów oraz prowadzenia 
-karty stomatologicznej każdego pacjenta (dająca się uzupełniać po każdej wizycie) oraz z wyszukiwarką pacjentów. Lista pacjentów 
-wraz z podstawowymi danymi będzie znajdowała się w pliku tekstowym. 
+Program będący bazą danych pacjentów gabinetu stomatologicznego z możliwością dodawania nowych pacjentów oraz prowadzenia karty stomatologicznej każdego pacjenta (dająca się uzupełniać po każdej wizycie). Lista pacjentów wraz z podstawowymi danymi będzie znajdowała się w pliku.
